@@ -1,5 +1,5 @@
 # Spatial Relationships between Urban Heat Rank and Heritage Conservation Areas
-A data analysis project exploring relationships between Urban Heat Islands and heritage conservation areas in London.
+A data analysis project exploring relationships between Urban Heat Islands and heritage conservation areas in London, and accompanying policy report. This work was done as coursework for my MSc in Urban Data Science and Analytics.
 
 Datasets used:
 Arup, 2024. Properties Vulnerable to Heat Impacts in London. London Datastore. [Online]. [Accessed 2 May 2025]. Available from: https://data.london.gov.uk/dataset/properties-vulnerable-to-heat-impacts-in-london
